@@ -1,0 +1,9 @@
+Date Time : 23-Aug-17 1:58:18 AM
+
+Error Details : Index was outside the bounds of the array.
+
+Stack details :    at System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   at System.Array.GetValue(Int32 index)
+   at Microsoft.Syncfusion_VSExtension_Troubleshooter.Syncfusion_VSExtension_TroubleshooterPackage.queryStatusMenuCommand_BeforeQueryStatus(Object sender, EventArgs e)
+
+*****************************************************************
